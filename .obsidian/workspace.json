@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "889a12896e914880",
+    "type": "split",
+    "children": [
+      {
+        "id": "8200e99b23ddbbf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3548177ff66fcf8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lr2/Лузан Б. О. ИВТ 2.1 Лр. 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лузан Б. О. ИВТ 2.1 Лр. 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "193fd4f1a2b76bed",
+    "type": "split",
+    "children": [
+      {
+        "id": "57e84ade98c26ddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37bcd6b77fa5119d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4dc6e8f0b4c5216",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5504f7a4fc620ed7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84aac59e71e40de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e8329794b64394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8783f86bf2247c0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Лузан Б. О. ИВТ 2.1 Лр. 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Лузан Б. О. ИВТ 2.1 Лр. 2"
+            }
+          },
+          {
+            "id": "091cfa51d4602958",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Лузан Б. О. ИВТ 2.1 Лр. 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Лузан Б. О. ИВТ 2.1 Лр. 2"
+            }
+          },
+          {
+            "id": "4fe7be909a5eb84a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ebc351585b17c72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Лузан Б. О. ИВТ 2.1 Лр. 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Лузан Б. О. ИВТ 2.1 Лр. 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "37bcd6b77fa5119d",
+  "lastOpenFiles": [
+    "lr2/Лузан Б. О. ИВТ 2.1 Лр. 2.md",
+    "lr2/Pasted image 20250514084008.png",
+    "lr2/Pasted image 20250430105642.png",
+    "lr2/Pasted image 20250430104607.png",
+    "lr2/Pasted image 20250430104120.png",
+    "lr2/Pasted image 20250430095538.png",
+    "lr2/Pasted image 20250430094434.png",
+    "lr2/Pasted image 20250430085350.png",
+    "lr2",
+    "Новая папка",
+    "Лузан Б. О. ИВТ 2.1 Лр. 2.md",
+    "Pasted image 20250514084008.png",
+    "Pasted image 20250430105642.png",
+    "Pasted image 20250430085350.png",
+    "Welcome.md",
+    "Новый текстовый документ.txt"
+  ]
+}

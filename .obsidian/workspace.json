@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/lr1/Лузан Б. О. ИВТ 2.1 Лр. 1.md",
+                "file": "lr4/Лузан Б.О. ИВТ 2.1 Лр. 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лузан Б. О. ИВТ 2.1 Лр. 1"
+              "title": "Лузан Б.О. ИВТ 2.1 Лр. 1"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 293.5
   },
   "right": {
     "id": "84aac59e71e40de9",
@@ -170,21 +170,23 @@
   },
   "active": "d0ba6405422fb946",
   "lastOpenFiles": [
-    "rust/lr1/res8.png",
-    "rust/lr1/res7.png",
-    "rust/lr1/res6.png",
-    "rust/lr1/res5.png",
-    "rust/lr1/res4.png",
-    "rust/lr1/res3.png",
-    "rust/lr1/res2.png",
-    "rust/lr1/res1.png",
-    "lr2/Лузан Б. О. ИВТ 2.1 Лр. 2.md",
-    "rust/lr1/Лузан Б. О. ИВТ 2.1 Лр. 1.md",
-    "res8.png",
+    "lr4/res7.png",
+    "lr4/res6.png",
+    "lr4/res5.png",
+    "lr4/res4.png",
+    "lr4/res3.png",
+    "lr4/res2.png",
+    "lr4/res1.png",
+    "lr3/Лузан Б.О. ИВТ 2.1 Лр. 3.md",
+    "lr4/Лузан Б.О. ИВТ 2.1 Лр. 1.md",
     "res7.png",
     "res6.png",
+    "res5.png",
+    "res4.png",
+    "lr2/Лузан Б. О. ИВТ 2.1 Лр. 2.md",
+    "rust/lr1/Лузан Б. О. ИВТ 2.1 Лр. 1.md",
+    "lr4",
     "Pasted.md",
-    "lr3/Лузан Б.О. ИВТ 2.1 Лр. 3.md",
     "rust/lr1",
     "rust",
     "lr3",

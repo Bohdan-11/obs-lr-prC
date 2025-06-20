@@ -1,0 +1,4 @@
+project('proj1-files-and-structs', 'c', version: '1.0')
+executable('proj1', ['main.c', 'data.c'],
+    include_directories: '.', # текущий каталог содержит data.h
+    install: true)

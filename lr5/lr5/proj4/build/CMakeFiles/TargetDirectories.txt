@@ -1,0 +1,3 @@
+C:/project/lr5/proj4/build/CMakeFiles/linmath.dir
+C:/project/lr5/proj4/build/CMakeFiles/edit_cache.dir
+C:/project/lr5/proj4/build/CMakeFiles/rebuild_cache.dir
